@@ -14,7 +14,7 @@
  <a href="#-comoexecutar">Como executar</a> |  
  <a href="#-endpoints">Endpoints</a> | 
  <a href="#-author">Author</a> |
- <a href="#memo-licença">Licença</a> 
+ <a href="#-licença">Licença</a> 
 </p>
 
 <p align="center">
