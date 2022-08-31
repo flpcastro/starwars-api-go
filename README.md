@@ -14,7 +14,7 @@
  <a href="#-comoexecutar">Como executar</a> |  
  <a href="#-endpoints">Endpoints</a> | 
  <a href="#-author">Author</a> |
- <a href="#-licença">Licença</a> 
+ <a href="#memo-licença">Licença</a> 
 </p>
 
 <p align="center">
@@ -115,6 +115,6 @@ curl -X POST \
 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/flpzow" width="100px;" alt="Vinícius Neto"/> 
  <br />
 
-## 📝 License
+## :memo: License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
