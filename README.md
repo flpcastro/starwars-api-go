@@ -1,13 +1,5 @@
-<!-- # Projeto
-# Tecnologias
-# Pré-requisitos
-# Features
-# Como executar
-# Endpoints
-# Author
-# Licença -->
 <h1 align="center">
-    <img alt="Star Wars API" title="#Star Wars API" src="https://lumiere-a.akamaihd.net/v1/images/darth-vader-main_4560aff7.jpeg?region=0%2C67%2C1280%2C720&width=960" />
+    <img alt="Star Wars API" width="600" height="300" title="#Star Wars API" src="https://lumiere-a.akamaihd.net/v1/images/darth-vader-main_4560aff7.jpeg?region=0%2C67%2C1280%2C720&width=960" />
 </h1>
 
 <h1 align="center">
@@ -15,24 +7,24 @@
 </h1>
 
 <p align="center">
- <a href="#projeto">Projeto</a> |
- <a href="#tecnologias">Tecnologias</a> |
- <a href="#prerequisitos">Pré-requisitos</a> |
- <a href="#features">Features</a> | 
- <a href="#comoexecutar">Como executar</a> |  
- <a href="#endpoints">Endpoints</a> | 
- <a href="#author">Author</a> |
- <a href="#license">License</a> 
+ <a href="#-projeto">Projeto</a> |
+ <a href="#-tecnologias">Tecnologias</a> |
+ <a href="#-prerequisitos">Pré-requisitos</a> |
+ <a href="#-features">Features</a> | 
+ <a href="#-comoexecutar">Como executar</a> |  
+ <a href="#-endpoints">Endpoints</a> | 
+ <a href="#-author">Author</a> |
+ <a href="#memo-licença">Licença</a> 
 </p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/flpzow/starwars-api-go?color=red">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/flpzow/starwars-api-go">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/flpzow/starwars-api-go?color=red">
  
   <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
 
-  <img src="https://img.shields.io/github/stars/flpzow/starwars-api-go?label=stars&message=MIT&color=8257E5&labelColor=000000" alt="Stars">
+  <img src="https://img.shields.io/github/stars/flpzow/starwars-api-go?label=stars&message=MIT&color=red" alt="Stars">
 </p>
 
 ## 💻 Projeto
@@ -40,23 +32,23 @@
 Este é um projeto para proporcionar dados de Planetas da saga StarWars.
 
 ## 🛠️ Tecnologias
-• **[Go](https://go.dev/)**
-• **[Docker](https://www.docker.com/)**
-• **[Gorilla Mux](https://github.com/gorilla/mux)**
-• **[MongoDB](https://www.mongodb.com/)**
-• **[GoDotEnv](https://github.com/joho/godotenv)**
-• **[Testify](https://github.com/stretchr/testify)**
+- **[Go](https://go.dev/)**
+- **[Docker](https://www.docker.com/)**
+- **[Gorilla Mux](https://github.com/gorilla/mux)**
+- **[MongoDB](https://www.mongodb.com/)**
+- **[GoDotEnv](https://github.com/joho/godotenv)**
+- **[Testify](https://github.com/stretchr/testify)**
 
 
 ## 🧩 Pré-requisitos
 
 Antes de executá-lo, é necessário ter instalado em sua máquina:
 
-  • Golang (https://go.dev/);
-  • Git (https://git-scm.com/);
-  • Docker (https://www.docker.com/);
-  • Docker-compose (https://docs.docker.com/compose/);
-  • Editor de texto (de sua preferência);
+  - Golang (https://go.dev/);
+  - Git (https://git-scm.com/);
+  - Docker (https://www.docker.com/);
+  - Docker-compose (https://docs.docker.com/compose/);
+  - Editor de texto (de sua preferência);
 
 ## 📝 Features
 
