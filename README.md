@@ -112,7 +112,7 @@ curl -X POST \
 
 ## ✏️ Author
 
-<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/flpzow" width="100px;" alt="Vinícius Neto"/> 
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/flpcastro" width="100px;" alt="Vinícius Neto"/> 
  <br />
 
 ## :memo: License
